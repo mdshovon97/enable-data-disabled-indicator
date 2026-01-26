@@ -1,0 +1,70 @@
+© 2026 MD SHOVON
+This research and theory are licensed under
+MD SHOVON SYSTEMUI MOD LICENSE (MSSML) v1.0
+Unauthorized ownership claims are prohibited.
+
+MODING LOS21 SYSTEMUI APK
+
+# Target - Enable "Data disabled indicator"
+
+# The Real Question:
+• Can this specific smali logic be done using OVERLAY?
+• NO — not with a normal Runtime Resource Overlay (RRO). But Why? Overlays can modify only:
+res/values/*, layouts, drawables, dimens, bools,integers, strings.
+
+# Overlays CANNOT:
+Hook Kotlin coroutines, Replace invokeSuspend,Override smali logic, Modify Interactor domain logic, Change pipeline behavior.
+
+# Target file -
+"MobileIconInteractorImpl$showExclamationMark$1.smali"
+
+# This is:
+Kotlin coroutine lambda
+Domain-layer logic
+Not resource-driven
+Not config-based.
+So pure overlay is impossible for this logic.
+
+It's very difficult to find out... After a lot of research, I found the main point.
+A small mistake can ruin your phone because it is a completely live file.
+ 
+• Main file location 
+SystemUI_src/smali_classes2/com/android/systemui/statusbar/pipeline/mobile/domain/interactor/MobileIconInteractorImpl$showExclamationMark$1.smali
+
+# Requirement Tools For (Android)
+  1. ApkTool M V2.4.0 apk
+  2. MT Manager apk
+  3. Termux (Optional)
+
+Warning!
+The author of this build, as well as the developer MD Shovon, are not responsible for any possible damage, malfunctions, device bricking, or data loss that may result from using this modification.
+Use this modification at your own risk.
+Before performing any actions, please back up your SystemUI.apk using any method you are comfortable with.
+  
+NOTE : The most important thing to do is to use your brain and valuable time to work deeply.
+
+
+# THIS IS THE KEY
+.method public final invokeSuspend(Ljava/lang/Object;)Ljava/lang/Object;
+    .locals 1
+
+    const/4 v0, 0x0
+    invoke-static {v0}, Ljava/lang/Boolean;->valueOf(Z)Ljava/lang/Boolean;
+    move-result-object v0
+    return-object v0
+.end method
+
+# Look at this line 
+.line 325
+
+.end method
+
+Replaced the whole logic with THE KEY
+
+AndroidDev  : MD SHOVON
+Tested      : Lineage OS 21 (AOSP)
+Android     : 14 (Upside Down Cake)
+Build Date  : SAT/JAN/03/01/2026-8:33 PM
+
+# Original Modification by MD SHOVON
+# License: MSSML v1.0

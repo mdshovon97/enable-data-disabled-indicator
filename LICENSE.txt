@@ -1,0 +1,84 @@
+MD SHOVON SYSTEMUI MOD LICENSE (MSSML) v1.0
+
+Copyright © 2026 MD SHOVON
+
+--------------------------------------------------
+
+1. OWNERSHIP & AUTHORSHIP
+
+This software modification, including but not limited to:
+- Smali bytecode changes
+- Kotlin coroutine behavior replacement
+- SystemUI pipeline and domain-layer logic modifications
+- Documentation, explanations, and research
+
+is original work authored by MD SHOVON.
+
+MD SHOVON remains the sole original author and copyright holder.
+No individual or organization may claim authorship or ownership of this work.
+
+--------------------------------------------------
+
+2. PERMISSIONS
+
+Permission is granted to any person to:
+- Use this modification for personal and educational purposes
+- Study and analyze the logic
+- Share the unmodified version freely
+
+--------------------------------------------------
+
+3. MODIFICATION & REDISTRIBUTION
+
+You may modify and redistribute this work ONLY if:
+- Proper credit is given to MD SHOVON
+- This license text is preserved in full
+- All modifications are clearly marked
+- You do not claim the work as your own
+
+--------------------------------------------------
+
+4. RESTRICTIONS
+
+You may NOT:
+- Claim this work as your own original creation
+- Remove or alter author credit
+- Re-license under another license
+- Sell, monetize, or bundle in paid ROMs or modules
+- Include in closed-source or proprietary projects
+- Apply DRM, copyright claims, or legal restrictions
+
+Any attempt to copyright or restrict this work by third parties is strictly forbidden.
+
+--------------------------------------------------
+
+5. NO WARRANTY
+
+THIS SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND.
+
+MD SHOVON SHALL NOT BE LIABLE FOR:
+- Device damage or bricking
+- Bootloops or system instability
+- Data loss
+- Warranty voiding
+- Any direct or indirect damages
+
+Use at your own risk.
+
+--------------------------------------------------
+
+6. ATTRIBUTION
+
+Any public use, reference, or distribution must include:
+
+"Original modification by MD SHOVON"
+
+--------------------------------------------------
+
+7. TERMINATION
+
+Violation of this license automatically terminates all granted permissions.
+
+--------------------------------------------------
+
+Released: January 2026
