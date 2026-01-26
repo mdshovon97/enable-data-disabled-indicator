@@ -19,4 +19,7 @@ Licensed under the **MD SHOVON SYSTEMUI MOD LICENSE (MSSML) v1.0**.
 This modification is provided **AS IS**.
 The author is not responsible for device damage or data loss.
 
+### Video Guide
+Watch the full step-by-step tutorial (21 min):  
+https://drive.google.com/file/d/1oHEXFVO4q9DOAs74ep1Q2P5UxisUNamp/view
 **Original modification by MD SHOVON**
