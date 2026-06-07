@@ -18,6 +18,17 @@
 <img width="100%" src="https://github.com/andreasbm/readme/blob/master/assets/lines/colored.png"/>
 </div>
 
+<div align="center">
+<img src="preview/bg.png"/>
+</div>
+
+<div align="center">
+<img width="100%" src="https://github.com/andreasbm/readme/blob/master/assets/lines/colored.png"/>
+</div>
+
+
+
+
 ## Legal & License
 
 This project contains original SystemUI modifications authored by **MD SHOVON**.
