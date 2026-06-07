@@ -3,8 +3,21 @@
 </div>
 
 <p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=28&duration=2500&pause=1000&color=FF0000&center=true&vCenter=true&width=1000&lines=ROOT+ACCESS+REQUIRED; ENABLE+DATA+DISABLE+ID+INDICATOR;ANDROID+RUNTIME+SMALI+MODIFICATION;MR+MATRIX+%7C+SHOVON+X+OS"/>
+<img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=28&duration=2500&pause=1000&color=8CCF00&center=true&vCenter=true&width=1000&lines=ROOT+ACCESS+REQUIRED;ENABLE+DATA+DISABLE+ID+INDICATOR;ANDROID+RUNTIME+SMALI+MODIFICATION;MR+MATRIX+%7C+SHOVON+X+OS"/>
 </p>
+
+<div align="center">
+<img src="https://img.shields.io/badge/ANDROID-12--16-8CCF00?style=for-the-baddiv&logo=android&logoColor=8CCF00"/>
+<img src="https://img.shields.io/badge/SYSTEMUI-SMALI-FF2A2A?style=for-the-baddiv"/>
+<img src="https://img.shields.io/badge/ROOT-REQUIRED-B30000?style=for-the-baddiv"/>
+<img src="https://img.shields.io/badge/LINEAGE-OS-8CCF00?style=for-the-baddiv"/>
+<img src="https://img.shields.io/badge/PIXEL-OS-D4C400?style=for-the-baddiv"/>
+<img src="https://img.shields.io/badge/LICENSE-MSSML-FF2A2A?style=for-the-baddiv"/>
+</div>
+
+<div align="center">
+<img width="100%" src="https://github.com/andreasbm/readme/blob/master/assets/lines/colored.png"/>
+</div>
 
 ## Legal & License
 
