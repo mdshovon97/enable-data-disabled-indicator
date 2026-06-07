@@ -2,6 +2,10 @@
 <img src="preview/banner.jpg"/>
 </div>
 
+<p align="center">
+<img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=28&duration=2500&pause=1000&color=FF0000&center=true&vCenter=true&width=1000&lines=ROOT+ACCESS+REQUIRED; ENABLE+DATA+DISABLE+ID+INDICATOR;ANDROID+RUNTIME+SMALI+MODIFICATION;MR+MATRIX+%7C+SHOVON+X+OS"/>
+</p>
+
 ## Legal & License
 
 This project contains original SystemUI modifications authored by **MD SHOVON**.
