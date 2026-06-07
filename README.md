@@ -7,12 +7,11 @@
 </p>
 
 <div align="center">
-<img src="https://img.shields.io/badge/ANDROID-12--16-8CCF00?style=for-the-baddiv&logo=android&logoColor=8CCF00"/>
-<img src="https://img.shields.io/badge/SYSTEMUI-SMALI-FF2A2A?style=for-the-baddiv"/>
+<img src="https://img.shields.io/badge/ANDROID-12--16-4D9A00?style=for-the-baddiv&logo=android&logoColor=4D9A00"/>
+<img src="https://img.shields.io/badge/SYSTEMUI-SMALI-A68A00?style=for-the-baddiv"/>
 <img src="https://img.shields.io/badge/ROOT-REQUIRED-B30000?style=for-the-baddiv"/>
-<img src="https://img.shields.io/badge/LINEAGE-OS-8CCF00?style=for-the-baddiv"/>
-<img src="https://img.shields.io/badge/PIXEL-OS-D4C400?style=for-the-baddiv"/>
-<img src="https://img.shields.io/badge/LICENSE-MSSML-FF2A2A?style=for-the-baddiv"/>
+<img src="https://img.shields.io/badge/LINEAGE-OS-4D9A00?style=for-the-baddiv"/>
+<img src="https://img.shields.io/badge/LICENSE-MSSML-A68A00?style=for-the-baddiv"/>
 </div>
 
 <div align="center">
