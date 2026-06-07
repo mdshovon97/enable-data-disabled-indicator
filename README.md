@@ -1,3 +1,7 @@
+<div align="center">
+<img src="preview/banner.jpg"/>
+</div>
+
 ## Legal & License
 
 This project contains original SystemUI modifications authored by **MD SHOVON**.
