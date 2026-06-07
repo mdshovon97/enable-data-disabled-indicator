@@ -26,7 +26,13 @@
 <img width="100%" src="https://github.com/andreasbm/readme/blob/master/assets/lines/colored.png"/>
 </div>
 
+<div align="center">
+<img src="https://readme-typing-svg.demolab.com?font=Audiowide&size=30&duration=1&pause=999999&color=00FF9C&background=00000000&center=true&vCenter=true&repeat=false&width=850&height=85&lines=%E3%80%90+CONTRIBUTION+MATRIX+%E3%80%91"/>
+</div>
 
+<div align="center">
+<img width="100%" src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg"/>
+</div>
 
 
 ## Legal & License
