@@ -26,38 +26,46 @@
 <img width="100%" src="https://github.com/andreasbm/readme/blob/master/assets/lines/colored.png"/>
 </div>
 
-<div align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Audiowide&size=30&duration=1&pause=999999&color=00FF9C&background=00000000&center=true&vCenter=true&repeat=false&width=850&height=85&lines=%E3%80%90+CONTRIBUTION+MATRIX+%E3%80%91"/>
-</div>
-
-<div align="center">
-<img width="100%" src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg"/>
-</div>
-
 <div align="left">
-<img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=30&duration=1&pause=999999&color=FF0000&background=00000000&center=false&vCenter=false&repeat=false&width=850&height=85&lines=PREVIEW"/>
+<img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=30&duration=1&pause=999999&color=8CCF00&background=00000000&center=false&vCenter=false&repeat=false&width=850&height=85&lines=PREVIEW"/>
 </div>
-
 <table align="left">
 <tr>
+
 <td align="left">
 <div align="left">
 <img src="https://img.shields.io/badge/BEFORE-red?style=for-the-baddiv&labelColor=dark"/>
 </div>
+
 <img src="preview/before.png" width="340"/>
 </td>
+<td width="60"></td>
 <td align="left">
 
 <div align="left">
 <img src="https://img.shields.io/badge/AFTER-red?style=for-the-baddiv&labelColor=dark"/>
 </div>
-
 <img src="preview/after.png" width="340"/>
 </td>
 </tr>
 </table>
 
 <br clear="left"/>
+<div align="center">
+<br><br><br>
+ 
+<div align="center">
+<img width="100%" src="https://github.com/andreasbm/readme/blob/master/assets/lines/colored.png"/>
+</div>
+
+<div align="center">
+<img src="https://readme-typing-svg.demolab.com?font=Audiowide&size=30&duration=1&pause=999999&color=00FFD5&background=00000000&center=true&vCenter=true&repeat=false&width=850&height=85&lines=%E3%80%90+CONTRIBUTION+MATRIX+%E3%80%91"/>
+
+</div>
+<div align="center">
+<img width="100%" src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg"/>
+</div>
+
 
 ## Legal & License
 
