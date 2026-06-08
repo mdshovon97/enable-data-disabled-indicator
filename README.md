@@ -25,14 +25,11 @@
 <div align="center">
 <img width="100%" src="https://github.com/andreasbm/readme/blob/master/assets/lines/colored.png"/>
 </div>
-
 <div align="left">
 <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=30&duration=1&pause=999999&color=8CCF00&background=00000000&center=false&vCenter=false&repeat=false&width=850&height=85&lines=PREVIEW"/>
-
 <div align="center">
 <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=22&duration=1&pause=999999&color=8CCF00&center=true&vCenter=true&repeat=false&width=700&height=40&lines=%E3%80%90+MODIFICATION+RESULT+VERIFIED+%E3%80%91"/>
 </div>
-
 <div align="center">
 <img width="100%" src="https://github.com/andreasbm/readme/blob/master/assets/lines/colored.png"/>
 </div>
@@ -62,8 +59,18 @@
 </div>
 
 <div align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Audiowide&size=30&duration=1&pause=999999&color=00FFD5&background=00000000&center=true&vCenter=true&repeat=false&width=850&height=85&lines=%E3%80%90+CONTRIBUTION+MATRIX+%E3%80%91"/>
+<img src="https://readme-typing-svg.demolab.com?font=Audiowide&size=28&duration=1&pause=999999&color=00FFD5&center=true&vCenter=true&repeat=false&width=850&height=70&lines=%E3%80%90+VIDEO+GUIDE+%E3%80%91"/>
 
+<br>
+<a href="https://drive.google.com/file/d/1oHEXFVO4q9DOAs74ep1Q2P5UxisUNamp/view">
+<img src="https://img.shields.io/badge/WATCH-TUTORIAL-00FFD5?style=for-the-badge&labelColor=000000"/>
+</a>
+<br><br>
+SYSTEMUI Runtime Smali Modification Guide
+</div>
+
+<div align="center">
+<img src="https://readme-typing-svg.demolab.com?font=Audiowide&size=30&duration=1&pause=999999&color=00FFD5&background=00000000&center=true&vCenter=true&repeat=false&width=850&height=85&lines=%E3%80%90+CONTRIBUTION+MATRIX+%E3%80%91"/>
 </div>
 <div align="center">
 <img width="100%" src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg"/>
