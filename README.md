@@ -28,31 +28,34 @@
 
 <div align="left">
 <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=30&duration=1&pause=999999&color=8CCF00&background=00000000&center=false&vCenter=false&repeat=false&width=850&height=85&lines=PREVIEW"/>
+
+<div align="center">
+<img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=22&duration=1&pause=999999&color=8CCF00&center=true&vCenter=true&repeat=false&width=700&height=40&lines=%E3%80%90+MODIFICATION+RESULT+VERIFIED+%E3%80%91"/>
+</div>
+
+<div align="center">
+<img width="100%" src="https://github.com/andreasbm/readme/blob/master/assets/lines/colored.png"/>
+</div>
+ 
 </div>
 <table align="left">
 <tr>
-
-<td align="left">
-<div align="left">
-<img src="https://img.shields.io/badge/BEFORE-red?style=for-the-baddiv&labelColor=dark"/>
-</div>
-
-<img src="preview/before.png" width="340"/>
+<table align="center">
+<tr>
+<td align="center" width="45%">
+<img src="https://img.shields.io/badge/BEFORE-B30000?style=for-the-baddiv&labelColor=111111"/>
+<br><br>
+<img src="preview/before.png" width="360"/>
 </td>
-<td width="60"></td>
-<td align="left">
 
-<div align="left">
-<img src="https://img.shields.io/badge/AFTER-red?style=for-the-baddiv&labelColor=dark"/>
-</div>
-<img src="preview/after.png" width="340"/>
+<td width="30"></td>
+<td align="center" width="45%">
+<img src="https://img.shields.io/badge/AFTER-4D9A00?style=for-the-baddiv&labelColor=111111"/>
+<br><br>
+<img src="preview/after.png" width="360"/>
 </td>
 </tr>
 </table>
-
-<br clear="left"/>
-<div align="center">
-<br><br><br>
  
 <div align="center">
 <img width="100%" src="https://github.com/andreasbm/readme/blob/master/assets/lines/colored.png"/>
@@ -67,26 +70,6 @@
 </div>
 
 
-## Legal & License
-
-This project contains original SystemUI modifications authored by **MD SHOVON**.
-
-Licensed under the **MD SHOVON SYSTEMUI MOD LICENSE (MSSML) v1.0**.
-
-### You are allowed to:
-- Use for personal and educational purposes
-- Study and learn from the implementation
-- Share the unmodified version
-
-### You are NOT allowed to:
-- Claim authorship
-- Remove credit
-- Re-license
-- Sell or monetize
-- Include in proprietary or closed-source projects
-
-This modification is provided **AS IS**.
-The author is not responsible for device damage or data loss.
 
 ### Video Guide
 Watch the full step-by-step tutorial (21 min):  
