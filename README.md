@@ -22,32 +22,25 @@
 <img src="preview/bg.png"/>
 </div>
 
-<div align="center">
-
-<img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=30&duration=1&pause=999999&color=8CCF00&center=true&vCenter=true&repeat=false&width=850&height=70&lines=%E3%80%90+PREVIEW+MATRIX+%E3%80%91"/>
-
 <img width="100%" src="https://github.com/andreasbm/readme/blob/master/assets/lines/colored.png"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=22&duration=1&pause=999999&color=8CCF00&center=true&vCenter=true&repeat=false&width=700&height=40&lines=%E3%80%90+MODIFICATION+RESULT+VERIFIED+%E3%80%91"/>
+<div align="center">
+<img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=30&duration=1&pause=999999&color=8CCF00&center=true&vCenter=true&repeat=false&width=850&height=70&lines=PREVIEW+MATRIX"/>
 
-</div>
+<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=900&size=24&duration=2000&pause=999999&color=8CCF00&center=true&vCenter=true&repeat=false&width=950&height=50&lines=%5B+MODIFICATION+RESULT+VERIFIED+%5D"/>
+
 <table align="center">
 <tr>
-
 <td align="center" width="45%">
-<img src="https://img.shields.io/badge/BEFORE-B30000?style=for-the-badge&labelColor=111111"/>
-
+<img src="https://img.shields.io/badge/BEFORE-B30000?style=for-the-baddiv"/>
 <br><br>
 <img src="preview/before.png" width="360"/>
 </td>
-
 <td width="40"></td>
 <td align="center" width="45%">
-<img src="https://img.shields.io/badge/AFTER-4D9A00?style=for-the-badge&labelColor=111111"/>
+<img src="https://img.shields.io/badge/AFTER-4D9A00?style=for-the-baddiv"/>
 <br><br>
-
 <img src="preview/after.png" width="360"/>
-
 </td>
 </tr>
 </table>
