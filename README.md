@@ -22,48 +22,47 @@
 <img src="preview/bg.png"/>
 </div>
 
-<div align="left">
-<img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=30&duration=1&pause=999999&color=8CCF00&background=00000000&center=false&vCenter=false&repeat=false&width=850&height=85&lines=PREVIEW"/>
 <div align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=22&duration=1&pause=999999&color=8CCF00&center=true&vCenter=true&repeat=false&width=700&height=40&lines=%E3%80%90+MODIFICATION+RESULT+VERIFIED+%E3%80%91"/>
-</div>
-<div align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=30&duration=1&pause=999999&color=8CCF00&center=true&vCenter=true&repeat=false&width=850&height=70&lines=%E3%80%90+PREVIEW+MATRIX+%E3%80%91"/>
+
 <img width="100%" src="https://github.com/andreasbm/readme/blob/master/assets/lines/colored.png"/>
+
+<img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=22&duration=1&pause=999999&color=8CCF00&center=true&vCenter=true&repeat=false&width=700&height=40&lines=%E3%80%90+MODIFICATION+RESULT+VERIFIED+%E3%80%91"/>
+
 </div>
- 
-</div>
-<table align="left">
-<tr>
 <table align="center">
 <tr>
+
 <td align="center" width="45%">
-<img src="https://img.shields.io/badge/BEFORE-B30000?style=for-the-baddiv&labelColor=111111"/>
+<img src="https://img.shields.io/badge/BEFORE-B30000?style=for-the-badge&labelColor=111111"/>
+
 <br><br>
 <img src="preview/before.png" width="360"/>
 </td>
 
-<td width="30"></td>
+<td width="40"></td>
 <td align="center" width="45%">
-<img src="https://img.shields.io/badge/AFTER-4D9A00?style=for-the-baddiv&labelColor=111111"/>
+<img src="https://img.shields.io/badge/AFTER-4D9A00?style=for-the-badge&labelColor=111111"/>
 <br><br>
+
 <img src="preview/after.png" width="360"/>
+
 </td>
 </tr>
 </table>
- 
+
 <div align="center">
 <img width="100%" src="https://github.com/andreasbm/readme/blob/master/assets/lines/colored.png"/>
-</div>
 
-<div align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Audiowide&size=28&duration=1&pause=999999&color=00FFD5&center=true&vCenter=true&repeat=false&width=850&height=70&lines=%E3%80%90+VIDEO+GUIDE+%E3%80%91"/>
+<img src="https://readme-typing-svg.demolab.com?font=Audiowide&size=30&duration=1&pause=999999&color=00FFD5&center=true&vCenter=true&repeat=false&width=850&height=70&lines=%E3%80%90+VIDEO+GUIDE+%E3%80%91"/>
 
 <br>
-<a href="https://drive.google.com/file/d/1oHEXFVO4q9DOAs74ep1Q2P5UxisUNamp/view">
-<img src="https://img.shields.io/badge/WATCH-TUTORIAL-00FFD5?style=for-the-badge&labelColor=000000"/>
-</a>
 <br><br>
-SYSTEMUI Runtime Smali Modification Guide
+<a href="https://drive.google.com/file/d/1oHEXFVO4q9DOAs74ep1Q2P5UxisUNamp/view">
+<img src="https://img.shields.io/badge/%E2%96%B6%20WATCH%20FULL%20TUTORIAL-00FFD5?style=for-the-badge&logo=google-drive&logoColor=00FFD5&labelColor=000000"/>
+
+</a>
 </div>
 
 <div align="center">
