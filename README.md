@@ -50,7 +50,7 @@
 
 <br>
 <a href="https://drive.google.com/file/d/1oHEXFVO4q9DOAs74ep1Q2P5UxisUNamp/view">
-<img src="https://img.shields.io/badge/WATCH_NOW-GOOGLE_DRIVE-red?style=for-the-baddiv&logo=googledrive&logoColor=green"/>
+<img src="https://img.shields.io/badge/WATCH_NOW-GOOGLE_DRIVE-green?style=for-the-baddiv&logo=googledrive&logoColor=green"/>
 </a>
 </div>
 <br>
