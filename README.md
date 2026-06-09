@@ -55,6 +55,8 @@
 </div>
 <br>
 
+<img width="100%" src="https://github.com/andreasbm/readme/blob/master/assets/lines/colored.png"/>
+
 <div align="left">
 <img src="https://img.shields.io/badge/WARNING!-0d1117?style=for-the-baddiv&labelColor=B30000"/>
 </div>
@@ -86,10 +88,13 @@ The most important thing to do is to use your brain and valuable time to work de
 </div>
 
 ```smali
-.method public final setBuildText()V
-    .locals 0
+.method public final invokeSuspend(Ljava/lang/Object;)Ljava/lang/Object;
+    .locals 1
 
-    return-void
+    const/4 v0, 0x0
+    invoke-static {v0}, Ljava/lang/Boolean;->valueOf(Z)Ljava/lang/Boolean;
+    move-result-object v0
+    return-object v0
 .end method
 ```
 <div align="left">
@@ -108,8 +113,7 @@ The most important thing to do is to use your brain and valuable time to work de
 </div>
 
 ```diff
-+ RENAME MT Manager.bin FILE TO .apk
- FORMAT
++ RENAME MT Manager.bin FILE TO .apk FORMAT
 ```
 
 <div align="center">
