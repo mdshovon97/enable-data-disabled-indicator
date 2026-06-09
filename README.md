@@ -22,9 +22,6 @@
 <img src="preview/bg.png"/>
 </div>
 
-<div align="center">
-<img width="100%" src="https://github.com/andreasbm/readme/blob/master/assets/lines/colored.png"/>
-</div>
 <div align="left">
 <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=30&duration=1&pause=999999&color=8CCF00&background=00000000&center=false&vCenter=false&repeat=false&width=850&height=85&lines=PREVIEW"/>
 <div align="center">
