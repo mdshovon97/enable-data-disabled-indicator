@@ -55,6 +55,63 @@
 </div>
 <br>
 
+<div align="left">
+<img src="https://img.shields.io/badge/WARNING!-0d1117?style=for-the-baddiv&labelColor=B30000"/>
+</div>
+
+<div align="left">
+    
+```console
+The author of this build, as well as developer MD Shovon,
+are not responsible for any possible damage, malfunctions,
+device bricking, or data loss caused by using this modification.
+Use this modification completely at your own risk.
+Before performing any actions, please back up your
+SystemUI.apk using any method you are comfortable with.
+
+```
+
+<div align="left">
+<img src="https://img.shields.io/badge/NOTE:-0d1117?style=for-the-baddiv&labelColor=B30000"/>
+</div>
+
+<div align="left">
+
+```txt
+The most important thing to do is to use your brain and valuable time to work deeply.
+```
+
+<div align="left">
+<img src="https://img.shields.io/badge/THIS IS THE KEY:-blue?style=for-the-baddiv&labelColor=dark"/>
+</div>
+
+```smali
+.method public final setBuildText()V
+    .locals 0
+
+    return-void
+.end method
+```
+<div align="left">
+<img src="https://img.shields.io/badge/REQUERMENT TOOLS:-0d1117?style=for-the-baddiv&labelColor=B30000"/>
+</div>
+
+```console
+1. ApkTool M
+2. MT Mananger
+3. Termux (Optional)
+```
+<a href="https://t.me/shovonxos/20">
+<img src="https://img.shields.io/badge/⬇_DOWNLOAD_ALL_TOOLS-B30000?style=for-the-baddiv&logo=telegram&logoColor=white&labelColor=blue"/>
+</a>
+
+</div>
+
+```diff
++ RENAME MT Manager.bin FILE TO .apk
+ FORMAT
+```
+
 <div align="center">
 <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=28&duration=1&pause=999999&color=8CCF00&center=true&vCenter=true&repeat=false&width=900&height=55&lines=%E3%80%90+CONTRIBUTION+MATRIX+%E3%80%91"/>
 </div>
