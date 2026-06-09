@@ -24,7 +24,7 @@
 
 <img width="100%" src="https://github.com/andreasbm/readme/blob/master/assets/lines/colored.png"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=900&size=24&duration=100&pause=1200&color=8CCF00&center=true&vCenter=true&repeat=true&width=1100&height=50&lines=PREVIEW;PREVIEW+MODIFICATION;PREVIEW+MODIFICATION+RESULT"/>
+<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=900&size=28&duration=1500&pause=999999&color=8CCF00&center=true&vCenter=true&repeat=false&width=1100&height=50&lines=PREVIEW+MODIFICATION+RESULT"/>
 
 <table align="center">
 <tr>
