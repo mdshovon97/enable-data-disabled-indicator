@@ -3,7 +3,7 @@
 </div>
 
 <p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=28&duration=2500&pause=1000&color=8CCF00&center=true&vCenter=true&width=1000&lines=ROOT+ACCESS+REQUIRED;ENABLE+DATA+DISABLE+ID+INDICATOR;ANDROID+RUNTIME+SMALI+MODIFICATION;MR+MATRIX+%7C+SHOVON+X+OS"/>
+<img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=28&duration=2500&pause=1000&color=8CCF00&center=true&vCenter=true&width=1000&lines=ROOT+ACCESS+REQUIRED;ENABLE+DATA+DISABLE+INDICATOR;ANDROID+RUNTIME+SMALI+MODIFICATION;MR+MATRIX+%7C+SHOVON+X+OS"/>
 </p>
 
 <div align="center">
@@ -46,7 +46,7 @@
 <img width="100%" src="https://github.com/andreasbm/readme/blob/master/assets/lines/colored.png"/>
 
 <div align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=28&duration=1&pause=999999&color=8CCF00&center=true&vCenter=true&repeat=false&width=900&height=55&lines=VIDEO+GUIDE"/>
+<img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=24&duration=2500&pause=1000&color=8CCF00&center=true&vCenter=true&width=700&lines=WATCH+FULL+VIDEO+GUIDE;SYSTEMUI+RUNTIME+MODIFICATION;ENABLE+DATA+DISABLE+INDICATOR"/>
 
 <br>
 <a href="https://drive.google.com/file/d/1oHEXFVO4q9DOAs74ep1Q2P5UxisUNamp/view">
