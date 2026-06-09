@@ -24,10 +24,7 @@
 
 <img width="100%" src="https://github.com/andreasbm/readme/blob/master/assets/lines/colored.png"/>
 
-<div align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=30&duration=1&pause=999999&color=8CCF00&center=true&vCenter=true&repeat=false&width=850&height=70&lines=PREVIEW+MATRIX"/>
-
-<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=900&size=24&duration=2000&pause=999999&color=8CCF00&center=true&vCenter=true&repeat=false&width=950&height=50&lines=%5B+MODIFICATION+RESULT+VERIFIED+%5D"/>
+<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=900&size=24&duration=100&pause=1200&color=8CCF00&center=true&vCenter=true&repeat=true&width=1100&height=50&lines=PREVIEW;PREVIEW+MODIFICATION;PREVIEW+MODIFICATION+RESULT"/>
 
 <table align="center">
 <tr>
