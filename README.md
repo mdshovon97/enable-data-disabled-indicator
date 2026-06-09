@@ -72,10 +72,3 @@ SYSTEMUI Runtime Smali Modification Guide
 <div align="center">
 <img width="100%" src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg"/>
 </div>
-
-
-
-### Video Guide
-Watch the full step-by-step tutorial (21 min):  
-https://drive.google.com/file/d/1oHEXFVO4q9DOAs74ep1Q2P5UxisUNamp/view
-**Original modification by MD SHOVON**
