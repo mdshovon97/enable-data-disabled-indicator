@@ -70,7 +70,6 @@ device bricking, or data loss caused by using this modification.
 Use this modification completely at your own risk.
 Before performing any actions, please back up your
 SystemUI.apk using any method you are comfortable with.
-
 ```
 
 <div align="left">
@@ -97,6 +96,12 @@ The most important thing to do is to use your brain and valuable time to work de
     return-object v0
 .end method
 ```
+
+<div align="left">
+<img src="https://img.shields.io/badge/THIS IS ANDROID 16 QPR2 KEY:-blue?style=for-the-baddiv&labelColor=dark"/>
+</div>
+
+
 <div align="left">
 <img src="https://img.shields.io/badge/REQUERMENT TOOLS:-0d1117?style=for-the-baddiv&labelColor=B30000"/>
 </div>
