@@ -102,7 +102,7 @@ The most important thing to do is to use your brain and valuable time to work de
 <div align="center">
 <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=24&duration=2500&pause=1000&color=8CCF00&center=true&vCenter=true&width=700&lines=THIS+IS+ANDROID+16+QPR2;PIXEL+OS+CAPABLE+KEYS;ENABLE+DATA+DISABLE+INDICATOR"/>
 
-<a href="[https://drive.google.com/file/d/1oHEXFVO4q9DOAs74ep1Q2P5UxisUNamp/view](https://drive.google.com/file/d/1CvPQTZQbWQ9UxkV-nqmtzgr0HNeFittM/view?usp=drivesdk)">
+<a href="https://drive.google.com/file/d/1CvPQTZQbWQ9UxkV-nqmtzgr0HNeFittM/view?usp=drivesdk">
 <img src="https://img.shields.io/badge/DOWNLOAD-GOOGLE_DRIVE-green?style=for-the-baddiv&logo=googledrive&logoColor=green"/>
 </a>
 </div>
