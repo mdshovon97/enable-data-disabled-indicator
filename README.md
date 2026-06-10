@@ -139,3 +139,9 @@ The most important thing to do is to use your brain and valuable time to work de
 <div align="center">
 <img src="preview/bg2.png"/>
 </div>
+
+<div align="center">
+<img src="https://img.shields.io/badge/GITHUB-SYSTEM_ACTIVITY-B30000?style=for-the-baddiv&logo=github&logoColor=black"/>
+<img src="https://img.shields.io/badge/MATRIX-CONTRIBUTION-darkred?style=for-the-baddiv"/>
+<img src="https://img.shields.io/badge/STATUS-ACTIVE-B30000?style=for-the-baddiv"/>
+</div>
