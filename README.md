@@ -129,7 +129,7 @@ The most important thing to do is to use your brain and valuable time to work de
 ```
 
 <div align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=28&duration=1&pause=999999&color=8CCF00&center=true&vCenter=true&repeat=false&width=900&height=55&lines=%E3%80%90+CONTRIBUTION+MATRIX+%E3%80%91"/>
+<img src="https://readme-typing-svg.demolab.com?font=Audiowide&size=30&duration=1&pause=999999&color=8CCF00&center=true&vCenter=true&repeat=false&width=900&height=55&lines=%E3%80%90+CONTRIBUTION+MATRIX+%E3%80%91"/>
 </div>
 
 <div align="center">
