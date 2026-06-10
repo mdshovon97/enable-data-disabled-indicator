@@ -97,10 +97,17 @@ The most important thing to do is to use your brain and valuable time to work de
 .end method
 ```
 
-<div align="left">
-<img src="https://img.shields.io/badge/THIS IS ANDROID 16 QPR2 KEY:-blue?style=for-the-baddiv&labelColor=dark"/>
+<img width="100%" src="https://github.com/andreasbm/readme/blob/master/assets/lines/colored.png"/>
+
+<div align="center">
+<img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=24&duration=2500&pause=1000&color=8CCF00&center=true&vCenter=true&width=700&lines=THIS+IS+ANDROID+16+QPR2;PIXEL+OS+CAPABLE+KEYS;ENABLE+DATA+DISABLE+INDICATOR"/>
+
+<a href="[https://drive.google.com/file/d/1oHEXFVO4q9DOAs74ep1Q2P5UxisUNamp/view](https://drive.google.com/file/d/1CvPQTZQbWQ9UxkV-nqmtzgr0HNeFittM/view?usp=drivesdk)">
+<img src="https://img.shields.io/badge/DOWNLOAD-GOOGLE_DRIVE-green?style=for-the-baddiv&logo=googledrive&logoColor=green"/>
+</a>
 </div>
 
+<img width="100%" src="https://github.com/andreasbm/readme/blob/master/assets/lines/colored.png"/>
 
 <div align="left">
 <img src="https://img.shields.io/badge/REQUERMENT TOOLS:-0d1117?style=for-the-baddiv&labelColor=B30000"/>
