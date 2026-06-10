@@ -135,3 +135,7 @@ The most important thing to do is to use your brain and valuable time to work de
 <div align="center">
 <img width="100%" src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg"/>
 </div>
+
+<div align="center">
+<img src="preview/bg2.png"/>
+</div>
